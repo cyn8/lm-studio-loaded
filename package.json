@@ -1,0 +1,10 @@
+{
+  "name": "lm-studio-loaded",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Surface only LM Studio models that are currently loaded, at their applied context length.",
+  "omp": {
+    "name": "LM Studio (loaded only)",
+    "extensions": ["index.ts"]
+  }
+}
